@@ -25,7 +25,7 @@
 
 ---
 
-[d7n0.com](https://d7n0.com) · [github.com/D7N0](https://github.com/D7N0)
+[d7n0.com](https://d7n0.com)
 
 <div align="center">
 
